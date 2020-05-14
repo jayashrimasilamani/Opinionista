@@ -21,4 +21,3 @@ module.exports = (app) => {
     });
 };
 
-//mongodb+srv://jayashri:<password>@cluster0-lraju.mongodb.net/test?retryWrites=true&w=majority
